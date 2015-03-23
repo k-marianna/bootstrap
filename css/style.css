@@ -1,0 +1,11 @@
+img.center_img {
+	margin: 0 auto;
+}
+
+a.spoiler:after {
+	content: " [-]";
+}
+
+a.spoiler.collapsed:after {
+	content: " [+]";
+}

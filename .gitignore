@@ -1,0 +1,5 @@
+# ignore folder img
+img/
+
+# ignore files
+index_1_old.html
